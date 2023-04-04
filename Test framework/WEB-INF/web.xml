@@ -7,7 +7,7 @@ version="2.4">
     <display-name>Creation de Framework </display-name>
     <servlet>
         <servlet-name>Process</servlet-name>
-        <servlet-class>etu1869.framework.servlet.FrontServlet</servlet-class>
+        <servlet-class>etu1881.framework.servlet.FrontServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>Process</servlet-name>
