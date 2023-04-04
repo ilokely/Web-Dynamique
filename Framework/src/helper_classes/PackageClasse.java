@@ -11,7 +11,7 @@ import java.util.Vector;
 
 import annotation.*;
 
-import etu1869.framework.Mapping;
+import etu1881.framework.Mapping;
 
 
 public class PackageClasse {
