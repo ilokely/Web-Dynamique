@@ -4,8 +4,8 @@ import etu1881.framework.*;
 import java.util.*;
 
 import annotation.Url;
-import javax.servlet.*;
-import javax.servlet.http.*;
+import jakarta.servlet.*;
+import jakarta.servlet.http.*;
 
 import java.io.IOException;
 import java.lang.reflect.*;
