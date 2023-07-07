@@ -1,11 +1,11 @@
 package etu1869.framework.servlet;
 
 import java.io.*;
-import jakarta.servlet.*;
-import jakarta.servlet.http.*;
-import jakarta.servlet.annotation.MultipartConfig;
+import javax.servlet.*;
+import javax.servlet.http.*;
+import javax.servlet.annotation.MultipartConfig;
 import helper_classes.*;
-import etu1869.framework.*;
+import etu1881.framework.*;
 import java.lang.reflect.Method;
 import java.sql.SQLException;
 import java.util.*;
