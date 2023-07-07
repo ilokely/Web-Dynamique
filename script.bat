@@ -14,5 +14,5 @@ cd ../../../
 
 cd "Test framework"
 jar cvf TestFramework.war *
-copy "TestFramework.war" "C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps"
+copy "TestFramework.war" "C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps"
 cd ../
