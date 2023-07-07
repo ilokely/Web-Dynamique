@@ -3,7 +3,7 @@ package model;
 import java.util.ArrayList;
 import java.util.List;
 import annotation.*;
-import etu1869.framework.*;
+import etu1881.framework.*;
 
 public class Emp {
     int id;
