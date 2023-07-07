@@ -1,8 +1,8 @@
 package etu1881.framework.servlet;
 
 import java.io.*;
-import javax.servlet.*;
-import javax.servlet.http.*;
+import jakarta.servlet.*;
+import jakarta.servlet.http.*;
 import helper_classes.*;
 import etu1881.framework.*;
 import java.lang.reflect.Method;
